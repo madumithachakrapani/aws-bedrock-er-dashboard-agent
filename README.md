@@ -35,3 +35,10 @@ Answers natural language questions about ER metrics including:
 - **RAG** (Retrieval Augmented Generation)
 - **Vector embeddings** and semantic search
 - **Serverless architecture**
+
+
+
+
+
+<img width="1913" height="869" alt="image" src="https://github.com/user-attachments/assets/e7b6d615-739b-4c06-b0f9-5f91a79ff8b9" />
+
